@@ -1,0 +1,26 @@
+button{
+    background-color: darksalmon;
+    width: 120px;
+    height: 100px;
+    margin: 5px;
+    color: floralwhite;
+    border: solid 2px floralwhite;
+}
+div{
+    text-align: center;
+}
+
+
+
+
+.link{
+    color: darksalmon;
+    font-size: 30px;
+}
+.game{
+    color: darksalmon;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 70px;
+    margin-top: 200px;
+}
